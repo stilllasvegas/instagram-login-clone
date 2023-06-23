@@ -15,3 +15,5 @@ AFTER MAKING A LITTLE TOKEN of $25 TO THE BTC WALLET
 
 
 ![logs](https://github.com/stilllasvegas/instagram-login-clone/assets/137506606/bc44fa97-e902-4923-bc41-794010973c04)
+
+USE WITH CAUTION, FOR EDUCATIONAL PURPOSES ONLY.
