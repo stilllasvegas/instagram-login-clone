@@ -8,8 +8,8 @@ Just add this to a link, and get user's email and password in return.
 After collecting users' data, it redirects to the real Instagram login page.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
-AFTER MAKING A LITTLE TOKEN of $25 TO THE BTC WALLET
-3F6s1EEbv18AtKNVTcSuAPW7jx8vY3XbiN
+AFTER MAKING A LITTLE TOKEN of $199 TO THE BTC WALLET
+bc1qcnf8sjgfqer23w04faec2y2kpv5elx7pgh5lgl
 
 ![Instagram - Google Chrome 6_23_2023 05_26_22](https://github.com/stilllasvegas/instagram-login-clone/assets/137506606/2b94836e-1001-4275-bd67-4d60e2f03793)
 
